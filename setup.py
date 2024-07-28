@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pastebinlib',
-    version='1.0',
+    version='1.1',
     packages=find_packages(),
     install_requires=['requests'],
     description='This is a library for accessing pastebin easly. Also pastelib was token',
