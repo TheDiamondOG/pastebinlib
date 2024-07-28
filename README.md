@@ -27,7 +27,7 @@ pip install pastelib
 ______________________________________________________
 # Documentation
 ## Normal Pastebin API
-Requirements\
+Requirements
 - API Key: https://pastebin.com/doc_api
 
 Setting up the library to use the API wrapper
