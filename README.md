@@ -19,7 +19,7 @@ This is only if you want to run it straight from source
 git clone https://github.com/TheDiamondOG/pastebinlib
 python setup.py install
 ```
-## PyPi (Not out yet)
+## PyPi
 This is from PyPi the best way to get it 
 ```shell
 pip install pastebinlib
